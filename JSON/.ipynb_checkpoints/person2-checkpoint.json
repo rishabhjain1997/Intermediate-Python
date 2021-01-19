@@ -1,0 +1,18 @@
+{
+    "name": "June",
+    "age": 30,
+    "city": "New York",
+    "hasChildren": true,
+    "titles": [
+        "engineer",
+        "programmer"
+    ],
+    "children": [
+        {
+            "firstName": "Boob"
+        },
+        {
+            "firstname": "Carmen"
+        }
+    ]
+}
